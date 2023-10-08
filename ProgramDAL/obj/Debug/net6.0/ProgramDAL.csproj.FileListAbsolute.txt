@@ -1,0 +1,17 @@
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\bin\Debug\net6.0\msvcp140.dll
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\bin\Debug\net6.0\ProgramDAL.deps.json
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\bin\Debug\net6.0\ProgramDAL.dll
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\bin\Debug\net6.0\ProgramDAL.pdb
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\obj\Debug\net6.0\ProgramDAL.csproj.AssemblyReference.cache
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\obj\Debug\net6.0\ProgramDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\obj\Debug\net6.0\ProgramDAL.AssemblyInfoInputs.cache
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\obj\Debug\net6.0\ProgramDAL.AssemblyInfo.cs
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\obj\Debug\net6.0\ProgramDAL.csproj.CoreCompileInputs.cache
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\obj\Debug\net6.0\ProgramDAL.dll
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\obj\Debug\net6.0\refint\ProgramDAL.dll
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\obj\Debug\net6.0\ProgramDAL.pdb
+C:\Users\BukolaGrace\Personal Projects\program-workflow-service\ProgramDAL\obj\Debug\net6.0\ref\ProgramDAL.dll

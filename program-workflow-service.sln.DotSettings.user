@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=193cb9ec_002D1ac7_002D43f5_002Da756_002Df1221994fc52/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ProgramControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::93A24DE9-66E3-41AA-803F-19032A33125D::net6.0::program_workflow_service_test.ControllerTest.ProgramControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93A24DE9-66E3-41AA-803F-19032A33125D::net6.0::program_workflow_service_test.ControllerTest.WorkFlowControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93A24DE9-66E3-41AA-803F-19032A33125D::net6.0::program_workflow_service_test.ControllerTest.ApplicationTemplateControllerTests.GetApplicationTemplateAsync_ExistingTemplate_ReturnsOkResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93A24DE9-66E3-41AA-803F-19032A33125D::net6.0::program_workflow_service_test.ControllerTest.ApplicationTemplateControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93A24DE9-66E3-41AA-803F-19032A33125D::net6.0::program_workflow_service_test.ControllerTest.ProgramPreviewControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93A24DE9-66E3-41AA-803F-19032A33125D::net6.0::program_workflow_service_test.ServiceTest.ProgramServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93A24DE9-66E3-41AA-803F-19032A33125D::net6.0::program_workflow_service_test.ServiceTest.WorkFlowServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93A24DE9-66E3-41AA-803F-19032A33125D::net6.0::program_workflow_service_test.ServiceTest.ApplicationTemplateServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93A24DE9-66E3-41AA-803F-19032A33125D::net6.0::program_workflow_service_test.ServiceTest.ProgramPreviewServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
